@@ -1,0 +1,12 @@
+langchain
+langchain-groq
+streamlit
+matplotlib
+textblob 
+readability
+numpy
+opencv-python
+PTL
+#tensorflow
+scikit-image
+python-dotenv
